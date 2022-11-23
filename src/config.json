@@ -1,0 +1,47 @@
+{
+  "31337": {
+    "exchange": {
+      "address": "0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9"
+    },
+    "eNAIRA": {
+      "address": "0x5FbDB2315678afecb367f032d93F642f64180aa3"
+    },
+    "AREWA": {
+      "address": "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512"
+    },
+    "HAUSA": {
+      "address": "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0"
+    },
+    "explorerURL": "#"
+  },
+  "5": {
+    "explorerURL": "https://goerli.etherscan.io/",
+    "exchange": {
+      "address": "0xc3190a4B33C1CC5Dd860F9506ECe0896FC13C222"
+    },
+    "eNAIRA": {
+      "address": "0x00350b4552bF35EAC27E36f84F57D69d4C883a58"
+    },
+    "AREWA": {
+      "address": "0x4B8e66D2AAaAeAF044dC2aaB2f1B5d936C0814F7"
+    },
+    "HAUSA": {
+      "address": "0x5A3b58A3aDB6453FC5dD523330aC40f4C86f009F"
+    }
+  },
+  "80001": {
+    "explorerURL": "https://mumbai.polygonscan.com/",
+    "exchange": {
+      "address": "0x4E321448B83094f96Ba37Af093e38D9665c9369a"
+    },
+    "eNAIRA": {
+      "address": "0x00350b4552bF35EAC27E36f84F57D69d4C883a58"
+    },
+    "AREWA": {
+      "address": "0xAa2FAae0d8AAF4536c1f173E8Eb177c30b810204"
+    },
+    "HAUSA": {
+      "address": "0x5A3b58A3aDB6453FC5dD523330aC40f4C86f009F"
+    }
+  }
+}
